@@ -165,7 +165,7 @@ function App() {
       <AppBar position="static">
         <Toolbar>
           <Typography variant="h5">
-            TodoList
+            Book Store
           </Typography>
         </Toolbar>
       </AppBar> 
